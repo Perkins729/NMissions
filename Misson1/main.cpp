@@ -4,7 +4,7 @@
 #include <iostream>
 
 int main (){
-    std::cout<<"Mission 1:master!"<<std::endl;
+    std::cout<<"Mission 1:master"<<std::endl;
 
     return 0;
 }
